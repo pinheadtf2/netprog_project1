@@ -1,0 +1,47 @@
+{
+  "location": {
+    "name": "Menomonie",
+    "region": "Wisconsin",
+    "country": "USA",
+    "lat": 44.8773,
+    "lon": -91.9239,
+    "tz_id": "America/Chicago",
+    "localtime_epoch": 1727992698,
+    "localtime": "2024-10-03 16:58"
+  },
+  "current": {
+    "last_updated_epoch": 1727991900,
+    "last_updated": "2024-10-03 16:45",
+    "temp_c": 15.2,
+    "temp_f": 59.4,
+    "is_day": 1,
+    "condition": {
+      "text": "Sunny",
+      "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png",
+      "code": 1000
+    },
+    "wind_mph": 7.8,
+    "wind_kph": 12.6,
+    "wind_degree": 311,
+    "wind_dir": "NW",
+    "pressure_mb": 1021.0,
+    "pressure_in": 30.16,
+    "precip_mm": 0.0,
+    "precip_in": 0.0,
+    "humidity": 52,
+    "cloud": 0,
+    "feelslike_c": 15.2,
+    "feelslike_f": 59.4,
+    "windchill_c": 13.7,
+    "windchill_f": 56.7,
+    "heatindex_c": 13.8,
+    "heatindex_f": 56.8,
+    "dewpoint_c": 8.0,
+    "dewpoint_f": 46.4,
+    "vis_km": 16.0,
+    "vis_miles": 9.0,
+    "uv": 3.0,
+    "gust_mph": 9.2,
+    "gust_kph": 14.9
+  }
+}

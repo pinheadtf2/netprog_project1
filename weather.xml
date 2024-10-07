@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<root>
+    <location>
+        <name>Menomonie</name>
+        <region>Wisconsin</region>
+        <country>USA</country>
+        <lat>44.8773</lat>
+        <lon>-91.9239</lon>
+        <tz_id>America/Chicago</tz_id>
+        <localtime_epoch>1727989238</localtime_epoch>
+        <localtime>2024-10-03 16:00</localtime>
+    </location>
+    <current>
+        <last_updated_epoch>1727989200</last_updated_epoch>
+        <last_updated>2024-10-03 16:00</last_updated>
+        <temp_c>13.8</temp_c>
+        <temp_f>56.8</temp_f>
+        <is_day>1</is_day>
+        <condition>
+            <text>Overcast</text>
+            <icon>//cdn.weatherapi.com/weather/64x64/day/122.png</icon>
+            <code>1009</code>
+        </condition>
+        <wind_mph>7.8</wind_mph>
+        <wind_kph>12.6</wind_kph>
+        <wind_degree>311</wind_degree>
+        <wind_dir>NW</wind_dir>
+        <pressure_mb>1020</pressure_mb>
+        <pressure_in>30.13</pressure_in>
+        <precip_mm>0</precip_mm>
+        <precip_in>0</precip_in>
+        <humidity>67</humidity>
+        <cloud>100</cloud>
+        <feelslike_c>13.7</feelslike_c>
+        <feelslike_f>56.7</feelslike_f>
+        <windchill_c>13.7</windchill_c>
+        <windchill_f>56.7</windchill_f>
+        <heatindex_c>13.8</heatindex_c>
+        <heatindex_f>56.8</heatindex_f>
+        <dewpoint_c>8</dewpoint_c>
+        <dewpoint_f>46.4</dewpoint_f>
+        <vis_km>10</vis_km>
+        <vis_miles>6</vis_miles>
+        <uv>3</uv>
+        <gust_mph>9.2</gust_mph>
+        <gust_kph>14.9</gust_kph>
+    </current>
+</root>
